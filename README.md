@@ -1,4 +1,4 @@
-# Project Three: Business Intelligence #
+# Business Intelligence #
 
 ## This project creates an end to end business intelligence tool to allow the user to monitor product sentiment based on online reviews.##
 
